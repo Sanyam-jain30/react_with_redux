@@ -1,0 +1,23 @@
+.main{
+    width: 70%;
+    margin: auto;
+}
+
+.inputarea{
+    width: 30%;
+    margin: 20px auto;
+}
+
+.inputarea label{
+    margin-top: 5px;
+    margin-right: 10px;
+}
+
+.btns{
+    width: max-content;
+    margin: 10px auto;
+}
+
+.btns button, .btns span{
+    margin: 0 40px;
+}
